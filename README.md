@@ -1,1 +1,1 @@
-*** My Minecraft script api template (wip)
+### My Minecraft script api template (wip)
